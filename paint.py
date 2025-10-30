@@ -43,7 +43,6 @@ def circle(start, end):
 
 def rectangle(start, end):
     """Draw rectangle from start to end."""
-    pass  # TODO
     x1, y1 = start.x, start.y
     x2, y2 = end.x, end.y
 
